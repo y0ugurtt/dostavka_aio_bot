@@ -1,0 +1,15 @@
+pip install ast
+pip install cgitb
+pip install aiogram
+pip install logging
+pip install pysqlite3 
+pip install DateTime
+pip install pyQiwiP2P
+pip install randmom
+
+
+
+запуск:
+в файле config.py поставить свои значения для ТОКЕНА БОТА\СЕКРЕТНОГО КЛЮЧА КИВИ
+
+python main.py
